@@ -5,23 +5,21 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>My name is Yuzi 🥰 iam an advanced auto filter bot
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+I can be only used on @unknownground57 so dont even think about kidnapping me
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@unknownground57
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
 </i>
 
-<b>Bot Commands (Works Only In Groups) :</b>
+<b>Bot Commands (Works Only In Group) :</b>
 
     -> <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
@@ -43,12 +41,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@unknownground57
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Yuzi </code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Maintained by</b> : <b><i><a href="https://t.me/iam_aze">aze</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
